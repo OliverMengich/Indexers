@@ -1,0 +1,11 @@
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Indexers\bin\Debug\netcoreapp2.1\Indexers.deps.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Indexers\bin\Debug\netcoreapp2.1\Indexers.runtimeconfig.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Indexers\bin\Debug\netcoreapp2.1\Indexers.runtimeconfig.dev.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Indexers\bin\Debug\netcoreapp2.1\Indexers.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Indexers\bin\Debug\netcoreapp2.1\Indexers.pdb
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Indexers\obj\Debug\netcoreapp2.1\Indexers.csprojAssemblyReference.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Indexers\obj\Debug\netcoreapp2.1\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Indexers\obj\Debug\netcoreapp2.1\Indexers.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Indexers\obj\Debug\netcoreapp2.1\Indexers.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Indexers\obj\Debug\netcoreapp2.1\Indexers.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Indexers\obj\Debug\netcoreapp2.1\Indexers.pdb
